@@ -1,6 +1,5 @@
 # cat-photo-a# Cat Photo App
 
-![Cat Photo App Screenshot](screenshot.png)
 
 ## Description
 
@@ -13,8 +12,6 @@ You can try out the Cat Photo App by visiting the [live demo](https://chrischisa
 ## Technologies Used
 
 - HTML
-- CSS
-- JavaScript
 
 ## Usage
 
